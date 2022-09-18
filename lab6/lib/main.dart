@@ -1,4 +1,4 @@
-/*
+
 import 'package:flutter/material.dart';
 
 void main() => runApp(MaterialApp(
@@ -6,7 +6,7 @@ void main() => runApp(MaterialApp(
 // Scaffold is widgets built in flutter sdk..Scaffold is one type of layout manager..
       home: Scaffold(
         appBar: AppBar(
-          title: Text('HELLO I AM ADITYA... THIS IS MY FIRST APP'),
+          title: Text('HELLO I AM JAY... THIS IS MY FIRST APP'),
         ),
       ),
     ));
@@ -23,7 +23,7 @@ void main() => runApp(MaterialApp(
       appBar: AppBar(
         title: Text('HELLO FLUTTER...MY FIRST APP'),
         centerTitle: true,
-        backgroundColor: Colors.red,
+        backgroundColor: Colors.blue,
       ),
       body: Center(
         child: Text('HELLO DDU'),
